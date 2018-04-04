@@ -1,0 +1,99 @@
+<?xml version="1.0"?>
+<?mso-application progid="Excel.Sheet"?>
+<Workbook
+  xmlns:x="urn:schemas-microsoft-com:office:excel"
+  xmlns="urn:schemas-microsoft-com:office:spreadsheet"
+  xmlns:ss="urn:schemas-microsoft-com:office:spreadsheet">
+
+<Styles>
+ <Style ss:ID="Default" ss:Name="Normal">
+  <Alignment ss:Vertical="Bottom"/>
+  <Borders/>
+  <Font/>
+  <Interior/>
+  <NumberFormat/>
+  <Protection/>
+ </Style>
+ <Style ss:ID="s27">
+  <Font x:Family="Swiss" ss:Color="#0000FF" ss:Bold="1"/>
+ </Style>
+ <Style ss:ID="s21">
+  <NumberFormat ss:Format="yyyy\-mm\-dd"/>
+ </Style>
+ <Style ss:ID="s22">
+  <NumberFormat ss:Format="yyyy\-mm\-dd\ hh:mm:ss"/>
+ </Style>
+ <Style ss:ID="s23">
+  <NumberFormat ss:Format="hh:mm:ss"/>
+ </Style>
+</Styles>
+
+ <Worksheet ss:Name="Sheet1">
+  <ss:Table>
+   <ss:Row>
+    <ss:Cell  ss:StyleID="s27"><Data ss:Type="String">productid</Data></ss:Cell>
+    <ss:Cell  ss:StyleID="s27"><Data ss:Type="String">cateid</Data></ss:Cell>
+    <ss:Cell  ss:StyleID="s27"><Data ss:Type="String">title</Data></ss:Cell>
+    <ss:Cell  ss:StyleID="s27"><Data ss:Type="String">descr</Data></ss:Cell>
+    <ss:Cell  ss:StyleID="s27"><Data ss:Type="String">num</Data></ss:Cell>
+    <ss:Cell  ss:StyleID="s27"><Data ss:Type="String">price</Data></ss:Cell>
+    <ss:Cell  ss:StyleID="s27"><Data ss:Type="String">cover</Data></ss:Cell>
+    <ss:Cell  ss:StyleID="s27"><Data ss:Type="String">pics</Data></ss:Cell>
+    <ss:Cell  ss:StyleID="s27"><Data ss:Type="String">issale</Data></ss:Cell>
+    <ss:Cell  ss:StyleID="s27"><Data ss:Type="String">ishot</Data></ss:Cell>
+    <ss:Cell  ss:StyleID="s27"><Data ss:Type="String">istui</Data></ss:Cell>
+    <ss:Cell  ss:StyleID="s27"><Data ss:Type="String">saleprice</Data></ss:Cell>
+    <ss:Cell  ss:StyleID="s27"><Data ss:Type="String">ison</Data></ss:Cell>
+    <ss:Cell  ss:StyleID="s27"><Data ss:Type="String">createtime</Data></ss:Cell>
+   </ss:Row>
+   <ss:Row>
+    <ss:Cell><Data ss:Type="Number">1</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="Number">5</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="String">111</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="String">111</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="Number">110</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="Number">111.00</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="String">o7zgluxwg.bkt.clouddn.com/5aa3fa8de33cd</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="String">{&quot;5aa3f680c5dbb&quot;:&quot;o7zgluxwg.bkt.clouddn.com\/5aa3f</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="String">1</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="String">1</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="String">1</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="Number">111.00</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="String">0</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="Number">0</Data></ss:Cell>
+   </ss:Row>
+   <ss:Row>
+    <ss:Cell><Data ss:Type="Number">2</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="Number">6</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="String">Nike</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="String">loser</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="Number">122</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="Number">123.00</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="String">o7zgluxwg.bkt.clouddn.com/5aa4a21cbfc2f</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="String">{&quot;5aa4a21e12321&quot;:&quot;o7zgluxwg.bkt.clouddn.com\/5aa4a</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="String">1</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="String">0</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="String">1</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="Number">123.00</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="String">1</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="Number">0</Data></ss:Cell>
+   </ss:Row>
+   <ss:Row>
+    <ss:Cell><Data ss:Type="Number">3</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="Number">1</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="String">Adidas</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="String">123</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="Number">123</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="Number">123.00</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="String">o7zgluxwg.bkt.clouddn.com/5aa4ade20a7c5</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="String">{&quot;5aa4ade29662e&quot;:&quot;o7zgluxwg.bkt.clouddn.com\/5aa4a</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="String">0</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="String">1</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="String">1</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="Number">123.00</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="String">1</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="Number">0</Data></ss:Cell>
+   </ss:Row>
+  </ss:Table>
+ </Worksheet>
+</Workbook>
