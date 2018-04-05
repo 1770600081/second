@@ -20,6 +20,7 @@ class ComposerStaticInitad12933840a67255e13bdb32eebf0a52
         array (
             'yiidreamteam\\jstree\\' => 20,
             'yii\\swiftmailer\\' => 16,
+            'yii\\redis\\' => 10,
             'yii\\gii\\' => 8,
             'yii\\faker\\' => 10,
             'yii\\debug\\' => 10,
@@ -92,6 +93,10 @@ class ComposerStaticInitad12933840a67255e13bdb32eebf0a52
         'yii\\swiftmailer\\' => 
         array (
             0 => __DIR__ . '/..' . '/yiisoft/yii2-swiftmailer',
+        ),
+        'yii\\redis\\' => 
+        array (
+            0 => __DIR__ . '/..' . '/yiisoft/yii2-redis/src',
         ),
         'yii\\gii\\' => 
         array (
